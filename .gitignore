@@ -2,9 +2,9 @@
 /app/bootstrap.php.cache
 /app/cache/*
 /app/logs/*
-/vendor/
+#/vendor/
 !app/cache/.gitkeep
 !app/logs/.gitkeep
 /build/
-/bin/
+#/bin/
 /composer.phar
